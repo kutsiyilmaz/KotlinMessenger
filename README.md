@@ -1,5 +1,5 @@
 # KotlinMessenger
-Merhaba, bu uygulamada kaydolup ve login olup diğer kullanıcılar ile mesajlaşma yapılabilir. Yapımında kotlin ve firebase Realtime Database kullanılmıştır.
+Hello, in this application, you can sign up, log in, and exchange messages with other users. It is built using Kotlin and Firebase Realtime Database.
 
 
 
